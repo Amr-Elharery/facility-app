@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FaciltyApp",
-    "slug": "FaciltyApp",
+    "name": "Facility App",
+    "slug": "FacilityApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
